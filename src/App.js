@@ -82,7 +82,7 @@ function App() {
           The Start
         </h2>
         <p className="pt-4 mx-4 text-center flex items-center justify-center">
-          With a rough start to our relationship I still look at it with so much joy. I've put some pictures here to commemorate this time.
+          Even with a rough start to our relationship I still look at it with so much joy. It was the time I learned how amazing you are and how much I could love some one. I've put some pictures here to commemorate this time.
         </p>
         <div className="pt-5 flex items-center justify-center">
           <img src={flustered} alt="flustered" className="w-72" />
@@ -105,7 +105,7 @@ function App() {
           The Return
         </h2>
         <p className="pt-4 mx-4 text-center flex items-center justify-center">
-          This section is for that time we came back together in the spring/summer. I remember being happy around that time since Tears of the Kingdom came out. Kidding, it was just so nice to have you back even just as a friend that I could rely on. To this day I feel as I can still rely on you everyday! I love you very much!
+          This section is for that time we came back together in the spring/summer. I remember being happy around that time since Tears of the Kingdom came out. Kidding, it was just so nice to have you back even just as a friend that I could rely on. This was also the time we started our Skyward Sword playthrough that I hope we can finish soon! To this day I feel as I can still rely on you everyday! I love you very much!
         </p>
         <div className="pt-5 flex items-center justify-center">
           <img src={eepySmile} alt="eepySmile" className="w-72" />
@@ -123,7 +123,7 @@ function App() {
           <img src={yellowShirt} alt="yellowShirt" className="w-72" />
         </div>
         <p className="pt-5 mx-4 text-center flex items-center justify-center">
-          You're just so pretty that I had to add these photos to this section. I so happy to be with someone as pretty as you!
+          You're just so pretty that I had to add these photos to this section. I remind myself about how pretty you are everyday. I still can't believe that I can be with someone as pretty as you!
         </p>
       </div>
       <div className="py-8" id="newBeginning">
@@ -148,6 +148,9 @@ function App() {
         <div className="pt-5 flex items-center justify-center">
           <img src={smile} alt="smile" className="w-72" />
         </div>
+        <p className="pt-5 mx-4 text-center flex items-center justify-center">
+          These are some of my favourite pictures of you as of the time I am writing this section. With that said I get to see pictures of you everyday that are just as stunning. I can't wait to get/take more and see what the future holds for us.
+        </p>
       </div>
       <div id="sillyPictures">
         <h2 className="flex items-center justify-center font-bold text-2xl">
@@ -186,7 +189,10 @@ function App() {
             To Be Contined
           </h2>
           <p className="pt-4 mx-4 text-center flex items-center justify-center">
-            I hope you enjoyed looking through this site as I did making it! I love you very much and I can't wait to update it with more pictures and reasons I love you as our relationship continues.
+            I hope you enjoyed looking through this site as I did making it! Everyday you give me new reasons to be in love with you. I can't wait to find out what reasons I find in the future...
+          </p>
+          <p className="pt-4 mx-4 text-center flex items-center justify-center">
+            Happy Valentines Day my love. I love you very much and I can't wait to update it with more pictures and reasons I love you as our relationship continues.
           </p>
         </div>
     </>
